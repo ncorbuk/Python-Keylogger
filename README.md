@@ -1,5 +1,7 @@
 # Python-Advanced-Keylogger
 
-Python advanced key logger - YouTube tutorial .... is being exported atm
+Python Advanced Key Logger -
+
+**YouTube tutorial: is being exported atm**
 
 **For python tutorials: https://bit.ly/2U58Lt9**
