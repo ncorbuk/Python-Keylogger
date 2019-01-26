@@ -1,6 +1,6 @@
 # Python-Advanced-Keylogger
 
-## Python Advanced Key Logger -
+## ## Code Walk-through & Learning resources links
 
 **YouTube tutorial: https://bit.ly/2T3E8nG**
 
