@@ -1,6 +1,6 @@
 # Python-Advanced-Keylogger
 
-*#python* *#keylogger* *#python* *#keylogger* *#tutorial* *#python *#tutoiral *#keylogger* *#python3* *#keylogger* *#how* *#to* *#keylogger* *#in* *#python* *#advanced* *#easy* *#simple*
+*#python* *#keylogger* *#python* *#keylogger* *#tutorial* *#python *#tutoiral *#keylogger* *#python3* *#keylogger* *#how* *#to* *#keylogger* *#in* *#python* *#advanced* *#easy* *#simple* *#pythonkeylogger*
 
 ## Code Walk-through & Learning resources links
 **YouTube tutorial: https://bit.ly/2T3E8nG**
