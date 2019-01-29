@@ -5,6 +5,7 @@
 ## Code Walk-through & Learning resources links
 *If you are using a GMAIL account, you will need to change the settings to "Less Secure Apps" to allow python to send email to GMAIL*
 *- Watch the tutorial below and you will have no problems with setting up and running the keylogge correctly :)*
+
 **YouTube tutorial: https://bit.ly/2T3E8nG**
 
 **For python tutorials: https://bit.ly/2U58Lt9**
