@@ -12,6 +12,9 @@
 
 **Python_AND_Hacking subreddit: https://bit.ly/2Uf3gbw**
 
+## Become a Patreon
+**Become a Patreon and support this channel, so that it can keep creating great content in the future ** LINK: https://www.patreon.com/w3w3w3
+
 ## Built With
 
 * **Python 3.6.5** - [https://www.python.org/](https://www.python.org/)
