@@ -1,6 +1,6 @@
 # Python-Advanced-Keylogger
 
-*#python* *#keylogger* *#python* *#keylogger* *#tutorial* *#python *#tutoiral *#keylogger* *#python3* *#keylogger* *#how* *#to* *#keylogger* *#in* *#python* *#advanced* *#easy* *#simple* *#pythonkeylogger*
+*#python* *#keylogger* *#python* *#keylogger* *#tutorial* *#python *#tutoiral* *#keylogger* *#python3* *#keylogger* *#how* *#to* *#keylogger* *#in* *#python* *#advanced* *#easy* *#simple* *#pythonkeylogger*
 
 ## Code Walk-through & Learning resources links
 *If you are using a GMAIL account, you will need to change the settings to "Less Secure Apps" to allow python to send email to GMAIL*
