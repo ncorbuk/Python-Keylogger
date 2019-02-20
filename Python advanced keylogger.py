@@ -93,9 +93,12 @@ def send_logs():
 
 	MIN = 10
 	SECONDS = 60
-	#time.sleep(MIN * SECONDS) # every 10 mins write file/send log
-	time.sleep(30) # for debugging ~ yes program works :)
+
 	while True:
+		
+		#time.sleep(MIN * SECONDS) # every 10 mins write file/send log
+		time.sleep(30) # for debugging ~ yes program works :)
+		
 		if len(logged_data) > 1:
 			try:
 				write_file(count)
